@@ -42,11 +42,9 @@ les fonctionnalités suivantes :
 • La gestion des documents partagés ;
 
 
-Des outils divers ont été utilisés dans ce projet,  tel que le Framework laravel, 
+Des outils divers ont été utilisés dans ce projet,  tel que le Framework laravel, dédié pour le langage PHP,
 
-dédié pour le langage PHP, dans le but de la conception d’une Application Web moderne 
-
-respectant le modèle MVC.
+ dans le but de la conception d’une Application Web moderne respectant le modèle MVC.
 
 
 #Notices : 
