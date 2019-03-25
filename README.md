@@ -1,10 +1,10 @@
-Hi sir , thanks for taking time to read this 
+#Gestion De Scolarité 
 
-db file : db.sql
+Databse File : db.sql
 
-projet folder : projet
+Projet Folder : projet
 
-notices : 
+#Notices : 
 
 # we didnt mention that  : 
 
