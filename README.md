@@ -9,9 +9,9 @@ Dans le cadre du projet de fin du module « Développement web en PHP » assuré
 
 sur la conception et la réalisation du site web en utilisant la plateforme laravel.
 
-Ce site va permettre la gestion de plusieurs aspects gestion des notes, gestion des groupes, gestion des annonces, 
+Ce site va permettre la gestion de plusieurs aspects : 
 
-gestion des documents partagé.
+	gestion des notes, gestion des groupes, gestion des annonces, gestion des documents partagé.
 
 La réalisation de ce projet s’est allongée sur une période de dix jours sous l’encadrement de Mr FENNAN 
 
