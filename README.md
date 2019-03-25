@@ -17,17 +17,19 @@ La réalisation de ce projet s’est allongée sur une période de dix jours sou
 
 (Professeur au département informatique de la faculté des sciences et techniques de Tanger).
 
-Durant cette période nous avons pu améliorer nos connaissances, approfondir et mettre en exergue différentes notions, 
+Durant cette période nous avons pu améliorer nos connaissances, approfondir et mettre en
 
-notamment la conception et modélisation orientée objet en UML et le développement Web.
+exergue différentes notions, notamment la conception et modélisation orientée objet en UML et le développement Web.
 
-Le présent document synthétise les différentes étapes et démarches poursuivies pour développer les différentes questions
+Le présent document synthétise les différentes étapes et démarches poursuivies pour développer 
 
-et problématiques suscitées par le projet.
+les différentes questions et problématiques suscitées par le projet.
 
-Dans le but de mieux mener nos recherches et de développer une conception convenable à notre sujet, nous avons fait appel
+Dans le but de mieux mener nos recherches et de développer une conception convenable à notre sujet,
 
-à différents langages de développement tout en veillant à intégrer les fonctionnalités suivantes :
+nous avons fait appel à différents langages de développement tout en veillant à intégrer 
+
+les fonctionnalités suivantes :
 
 • La gestion des utilisateurs de la plateforme ;
 
@@ -40,9 +42,11 @@ Dans le but de mieux mener nos recherches et de développer une conception conve
 • La gestion des documents partagés ;
 
 
-Des outils divers ont été utilisés dans ce projet,  tel que le Framework laravel, dédié pour le langage PHP, dans le but
+Des outils divers ont été utilisés dans ce projet,  tel que le Framework laravel, 
 
-de la conception d’une Application Web moderne respectant le modèle MVC.
+dédié pour le langage PHP, dans le but de la conception d’une Application Web moderne 
+
+respectant le modèle MVC.
 
 
 #Notices : 
