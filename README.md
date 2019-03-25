@@ -1,8 +1,8 @@
 # Gestion De Scolarité 
 
-Databse File : db.sql
+==> Databse File : db.sql
 
-Projet Folder : projet
+==> Projet Folder : projet
 
 
 Dans le cadre du projet de fin du module « Développement web en PHP » assuré par Mr. FENNAN on a choisi de travailler
@@ -30,10 +30,15 @@ Dans le but de mieux mener nos recherches et de développer une conception conve
 à différents langages de développement tout en veillant à intégrer les fonctionnalités suivantes :
 
 • La gestion des utilisateurs de la plateforme ;
+
 • La gestion des groupes (LSI1-LSI2-LSI3 -...) ;
+
 • La gestion des notes des étudiants ;
+
 • La gestion des annonces entre acteurs ;
+
 • La gestion des documents partagés ;
+
 
 Des outils divers ont été utilisés dans ce projet,  tel que le Framework laravel, dédié pour le langage PHP, dans le but
 
@@ -42,7 +47,7 @@ de la conception d’une Application Web moderne respectant le modèle MVC.
 
 #Notices : 
 
-# we didnt mention that  : 
+==> we did not mention that  : 
 
 				submenu 'document' : will show only private and public files
 
